@@ -1,2 +1,2 @@
 # ZUCC-Winter-Camp
-PPT for ZUCC-Winter-Camp 2022
+PPT for ZUCC-Winter-Camp
